@@ -65,13 +65,12 @@ All cleaning and exploratory analysis was done in Python (pandas) in Google Cola
 ```
 ├── README.md
 ├── scripts/
-│   ├── clean_india_power_data.py
-│   ├── clean_global_energy_data.py
-│   ├── eda_india_power.py
-│   ├── eda_global_energy.py
-│   └── test_gt_hypothesis.py
-└── data/
-    └── (sample files — full datasets available via the Data Sources above)
+│   ├── EDA_of_Global_Energy.ipynb
+│   ├── EDA_of_India_Power.ipynb
+└── data_samples/
+    └── carbonmonitor_sample.csv
+    └── daily-power-generation_sample.csv
+    └── owid-energy-data_sample.csv
 ```
 
 ## Dashboard Preview
