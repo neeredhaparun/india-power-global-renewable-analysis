@@ -1,0 +1,1001 @@
+id,date,region,state_name,state_code,sector,station_type,power_station,power_station_unit,monitored_capacity,todays_gen_prgm,todays_gen_act
+1,2017-09-01,Northern,Delhi,7.0,State,Thermal,Rajghat Tps,Unit 1,67.5,0.0,0.0
+2,2017-09-01,Northern,Delhi,7.0,State,Thermal,Rajghat Tps,Unit 2,67.5,0.0,0.0
+3,2017-09-01,Northern,Delhi,7.0,State,Ther (Gt),I.P.Ccpp,Single Unit,270.0,1.8,0.87
+4,2017-09-01,Northern,Delhi,7.0,State,Ther (Gt),Pragati Ccgt-Iii,Single Unit,1500.0,6.0,10.89
+5,2017-09-01,Northern,Delhi,7.0,State,Ther (Gt),Pragati Ccpp,Single Unit,330.4,5.49,6.53
+6,2017-09-01,Northern,Delhi,7.0,Private,Ther (Gt),Rithala Ccpp,Single Unit,108.0,0.0,0.0
+7,2017-09-01,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 1,95.0,0.0,0.0
+8,2017-09-01,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 2,95.0,0.0,0.0
+9,2017-09-01,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 3,95.0,0.0,0.0
+10,2017-09-01,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 4,210.0,2.9,4.14
+11,2017-09-01,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 5,210.0,2.9,4.41
+12,2017-09-01,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 5,210.0,0.0,0.0
+13,2017-09-01,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 6,210.0,0.0,0.0
+14,2017-09-01,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 7,250.0,2.2,4.86
+15,2017-09-01,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 8,250.0,2.5,0.0
+16,2017-09-01,Northern,Haryana,6.0,State,Thermal,Rajiv Gandhi Tps,Unit 1,600.0,7.57,0.0
+17,2017-09-01,Northern,Haryana,6.0,State,Thermal,Rajiv Gandhi Tps,Unit 2,600.0,6.83,0.0
+18,2017-09-01,Northern,Haryana,6.0,State,Thermal,Yamuna Nagar Tps,Unit 1,300.0,4.93,0.0
+19,2017-09-01,Northern,Haryana,6.0,State,Thermal,Yamuna Nagar Tps,Unit 2,300.0,4.93,2.3
+20,2017-09-01,Northern,Haryana,6.0,Private,Thermal,Mahatma Gandhi Tps,Unit 1,660.0,6.03,9.48
+21,2017-09-01,Northern,Haryana,6.0,Private,Thermal,Mahatma Gandhi Tps,Unit 2,660.0,5.97,9.45
+22,2017-09-01,Northern,Haryana,6.0,Central,Thermal,Indira Gandhi Stpp,Unit 1,500.0,5.27,7.56
+23,2017-09-01,Northern,Haryana,6.0,Central,Thermal,Indira Gandhi Stpp,Unit 2,500.0,5.0,0.0
+24,2017-09-01,Northern,Haryana,6.0,Central,Thermal,Indira Gandhi Stpp,Unit 3,500.0,4.9,7.42
+25,2017-09-01,Northern,Haryana,6.0,Central,Ther (Gt),Faridabad Ccpp,Single Unit,431.59,3.43,3.99
+26,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Bassi Hps,Single Unit,66.0,1.07,1.58
+27,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Bhakra H P S,Single Unit,1325.0,16.44,17.95
+28,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Dehar H P S,Single Unit,990.0,12.27,14.26
+29,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Giri Bata Hps,Single Unit,60.0,0.83,1.37
+30,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Kashang Integrated Hep,Single Unit,195.0,0.8,1.06
+31,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Larji Hps,Single Unit,126.0,2.67,2.83
+32,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Pong H P S,Single Unit,396.0,3.53,5.14
+33,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Sainj Hps,Single Unit,100.0,0.57,0.0
+34,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Sanjay Hps,Single Unit,120.0,2.33,1.95
+35,2017-09-01,Northern,Himachal Pradesh,2.0,State,Hydro,Uhl-Iii Hps,Single Unit,0.0,0.0,0.0
+36,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Allain Duhangan Hps,Single Unit,192.0,2.57,3.62
+37,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Baspa Hps,Single Unit,300.0,5.67,7.73
+38,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Budhil Hps,Single Unit,70.0,0.93,1.82
+39,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Chanju-I Hps,Single Unit,24.0,0.0,0.0
+40,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Karcham Wangtoo Hps,Single Unit,1000.0,16.67,25.59
+41,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Malana Hps,Single Unit,86.0,1.43,2.16
+42,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Malana-Ii Hps,Single Unit,100.0,1.83,2.41
+43,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Sorang Hps,Single Unit,0.0,0.0,0.0
+44,2017-09-01,Northern,Himachal Pradesh,2.0,Private,Hydro,Tidong Hps,Single Unit,0.0,2.4,0.0
+45,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Baira Siul Hps,Single Unit,180.0,2.0,2.14
+46,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Chamera- I Hps,Single Unit,540.0,8.37,11.2
+47,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Chamera- Ii Hps,Single Unit,300.0,5.53,7.31
+48,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Chamera-Iii Hps,Single Unit,231.0,3.93,5.59
+49,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Koldam,Single Unit,800.0,9.8,16.13
+50,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Nathpa Jhakri Hps,Single Unit,1500.0,26.63,36.61
+51,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Parbati-Iii Hps,Single Unit,520.0,2.4,3.85
+52,2017-09-01,Northern,Himachal Pradesh,2.0,Central,Hydro,Rampur Hps,Single Unit,412.02,8.17,10.27
+53,2017-09-01,Northern,Jammu And Kashmir,1.0,State,Ther (Gt),Pampore Gps (Liq.),Single Unit,175.0,0.0,0.0
+54,2017-09-01,Northern,Jammu And Kashmir,1.0,State,Hydro,Baglihar Hps,Single Unit,450.0,6.33,10.8
+55,2017-09-01,Northern,Jammu And Kashmir,1.0,State,Hydro,Baglihar Ii Hps,Single Unit,450.0,5.77,10.8
+56,2017-09-01,Northern,Jammu And Kashmir,1.0,State,Hydro,Lower Jhelum Hps,Single Unit,105.0,1.17,1.16
+57,2017-09-01,Northern,Jammu And Kashmir,1.0,State,Hydro,Upper Sindh-Ii Hps,Single Unit,105.0,1.17,1.11
+58,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Chutak Hps,Single Unit,44.0,0.1,0.11
+59,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Dulhasti Hps,Single Unit,390.0,9.13,9.44
+60,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Kishanganga Hps,Single Unit,0.0,5.1,0.0
+61,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Nimmo Bazgo Hps,Single Unit,45.0,0.17,0.21
+62,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Salal Hps,Single Unit,690.0,12.7,16.25
+63,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Sewa-Ii Hps,Single Unit,120.0,1.87,1.87
+64,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Uri-I Hps,Single Unit,480.0,8.83,5.36
+65,2017-09-01,Northern,Jammu And Kashmir,1.0,Central,Hydro,Uri-Ii Hps,Single Unit,240.0,2.1,3.11
+66,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gh Tps (Leh.Moh.),Unit 1,210.0,2.1,0.0
+67,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gh Tps (Leh.Moh.),Unit 2,210.0,2.1,0.0
+68,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gh Tps (Leh.Moh.),Unit 3,250.0,3.27,0.0
+69,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gh Tps (Leh.Moh.),Unit 4,250.0,2.87,0.0
+70,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gnd Tps(Bhatinda),Unit 1,110.0,0.23,0.0
+71,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gnd Tps(Bhatinda),Unit 2,110.0,0.23,0.0
+72,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gnd Tps(Bhatinda),Unit 3,110.0,0.3,2.03
+73,2017-09-01,Northern,Punjab,3.0,State,Thermal,Gnd Tps(Bhatinda),Unit 4,110.0,0.3,0.0
+74,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 1,210.0,2.07,0.0
+75,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 2,210.0,2.07,0.0
+76,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 3,210.0,1.77,0.0
+77,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 4,210.0,2.07,0.0
+78,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 5,210.0,1.77,0.0
+79,2017-09-01,Northern,Punjab,3.0,State,Thermal,Ropar Tps,Unit 6,210.0,1.77,0.0
+80,2017-09-01,Northern,Punjab,3.0,State,Hydro,Anandpur Sahib Hps,Single Unit,134.0,2.37,2.59
+81,2017-09-01,Northern,Punjab,3.0,State,Hydro,Ganguwal Hps,Single Unit,77.65,1.1,1.19
+82,2017-09-01,Northern,Punjab,3.0,State,Hydro,Kotla Hps,Single Unit,77.65,1.17,1.25
+83,2017-09-01,Northern,Punjab,3.0,State,Hydro,Mukerian Hps,Single Unit,207.0,3.86,4.01
+84,2017-09-01,Northern,Punjab,3.0,State,Hydro,Ranjit Sagar Hps,Single Unit,600.0,6.03,3.7
+85,2017-09-01,Northern,Punjab,3.0,State,Hydro,Shanan Hps,Single Unit,110.0,1.57,2.56
+86,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Goindwal Sahib Tpp,Unit 1,270.0,2.07,5.15
+87,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Goindwal Sahib Tpp,Unit 2,270.0,2.07,0.0
+88,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Rajpura Tpp,Unit 1,700.0,12.07,8.48
+89,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Rajpura Tpp,Unit 2,700.0,10.97,8.75
+90,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Talwandi Sabo Tpp,Unit 1,660.0,6.03,3.59
+91,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Talwandi Sabo Tpp,Unit 2,660.0,6.03,8.12
+92,2017-09-01,Northern,Punjab,3.0,Private,Thermal,Talwandi Sabo Tpp,Unit 3,660.0,6.03,8.32
+93,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Chhabra Tpp,Unit 1,250.0,4.8,0.0
+94,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Chhabra Tpp,Unit 2,250.0,4.8,5.26
+95,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Chhabra Tpp,Unit 3,250.0,0.0,0.0
+96,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Chhabra Tpp,Unit 4,250.0,4.8,4.87
+97,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Chhabra Tpp,Unit 5,660.0,6.03,0.0
+98,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Giral Tps,Unit 1,125.0,0.0,0.0
+99,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Giral Tps,Unit 2,125.0,0.0,0.0
+100,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kalisindh Tps,Unit 1,600.0,10.17,10.83
+101,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kalisindh Tps,Unit 2,600.0,10.17,10.83
+102,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 1,110.0,1.47,2.04
+103,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 2,110.0,1.47,2.03
+104,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 3,210.0,4.53,0.0
+105,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 4,210.0,4.2,3.53
+106,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 5,210.0,4.2,4.51
+107,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 6,195.0,3.89,4.59
+108,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Kota Tps,Unit 7,195.0,0.0,4.57
+109,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 1,250.0,2.67,2.58
+110,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 2,250.0,2.67,0.0
+111,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 3,250.0,0.0,2.51
+112,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 4,250.0,2.67,0.0
+113,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 5,250.0,2.67,4.79
+114,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 6,250.0,2.67,0.0
+115,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 7,0.0,4.1,0.0
+116,2017-09-01,Northern,Rajasthan,8.0,State,Thermal,Suratgarh Tps,Unit 8,0.0,0.0,0.0
+117,2017-09-01,Northern,Rajasthan,8.0,State,Ther (Gt),Dholpur Ccpp,Single Unit,330.0,0.51,0.0
+118,2017-09-01,Northern,Rajasthan,8.0,State,Ther (Gt),Ramgarh Ccpp,Single Unit,273.8,4.1,4.71
+119,2017-09-01,Northern,Rajasthan,8.0,State,Hydro,Jawahar Sagar Hps,Single Unit,99.0,0.23,0.42
+120,2017-09-01,Northern,Rajasthan,8.0,State,Hydro,Mahi Bajaj Hps,Single Unit,140.0,0.83,1.31
+121,2017-09-01,Northern,Rajasthan,8.0,State,Hydro,R P Sagar Hps,Single Unit,172.0,0.33,0.19
+122,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 1,135.0,2.53,1.93
+123,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 2,135.0,2.5,0.0
+124,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 3,135.0,2.5,1.91
+125,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 4,135.0,2.5,1.91
+126,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 5,135.0,0.0,0.04
+127,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 6,135.0,2.7,1.91
+128,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 7,135.0,2.5,1.89
+129,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Jalipa Kapurdi Tpp,Unit 8,135.0,2.5,1.9
+130,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Kawai Tps,Unit 1,660.0,11.77,12.35
+131,2017-09-01,Northern,Rajasthan,8.0,Private,Thermal,Kawai Tps,Unit 2,660.0,11.2,0.0
+132,2017-09-01,Northern,Rajasthan,8.0,Central,Thermal,Barsingsar Lignite,Unit 1,125.0,2.23,2.73
+133,2017-09-01,Northern,Rajasthan,8.0,Central,Thermal,Barsingsar Lignite,Unit 2,125.0,2.23,0.0
+134,2017-09-01,Northern,Rajasthan,8.0,Central,Ther (Gt),Anta Ccpp,Single Unit,419.33,1.7,0.0
+135,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Dae (Rajasthan),Unit 1,100.0,0.0,0.0
+136,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Rajasthan A.P.S,Unit 2,200.0,3.83,4.48
+137,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Rajasthan A.P.S,Unit 3,220.0,4.5,4.78
+138,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Rajasthan A.P.S,Unit 4,220.0,4.5,5.31
+139,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Rajasthan A.P.S,Unit 5,220.0,5.03,5.51
+140,2017-09-01,Northern,Rajasthan,8.0,Central,Nuclear,Rajasthan A.P.S,Unit 6,220.0,4.0,5.34
+141,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Chibro (Yamuna) Hps,Single Unit,240.0,3.5,4.29
+142,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Chilla Hps,Single Unit,144.0,2.6,3.21
+143,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Dhakrani Hps,Single Unit,33.75,0.6,0.58
+144,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Dhalipur Hps,Single Unit,51.0,0.93,0.9
+145,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Khatima Hps,Single Unit,41.4,1.0,0.99
+146,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Khodri Hps,Single Unit,120.0,1.6,1.9
+147,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Kulhal Hps,Single Unit,30.0,0.6,0.37
+148,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Maneri Bhali - I Hps,Single Unit,90.0,1.47,2.06
+149,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Maneri Bhali - Ii Hps,Single Unit,304.0,6.37,4.87
+150,2017-09-01,Northern,Uttarakhand,5.0,State,Hydro,Ramganga Hps,Single Unit,198.0,0.4,0.0
+151,2017-09-01,Northern,Uttarakhand,5.0,Private,Ther (Gt),Beta Ccpp,Single Unit,0.0,0.0,0.0
+152,2017-09-01,Northern,Uttarakhand,5.0,Private,Ther (Gt),Gama Ccpp,Single Unit,225.0,1.1,2.37
+153,2017-09-01,Northern,Uttarakhand,5.0,Private,Ther (Gt),Kashipur Ccpp,Single Unit,225.0,1.1,4.65
+154,2017-09-01,Northern,Uttarakhand,5.0,Private,Hydro,Srinagar Hps,Single Unit,330.0,6.83,8.2
+155,2017-09-01,Northern,Uttarakhand,5.0,Private,Hydro,Vishnu Prayag Hps,Single Unit,400.0,6.97,10.59
+156,2017-09-01,Northern,Uttarakhand,5.0,Central,Hydro,Dhauli Ganga Hps,Single Unit,280.0,5.33,6.9
+157,2017-09-01,Northern,Uttarakhand,5.0,Central,Hydro,Koteshwar Hps,Single Unit,400.0,4.17,2.58
+158,2017-09-01,Northern,Uttarakhand,5.0,Central,Hydro,Tanakpur Hps,Single Unit,94.2,2.07,2.3
+159,2017-09-01,Northern,Uttarakhand,5.0,Central,Hydro,Tehri St-1 Hps,Single Unit,1000.0,12.9,7.6
+160,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 1,210.0,4.07,4.06
+161,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 2,210.0,4.2,0.0
+162,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 3,210.0,4.07,4.13
+163,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 4,500.0,11.17,0.0
+164,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 5,500.0,10.3,9.6
+165,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 6,500.0,10.3,9.61
+166,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Anpara Tps,Unit 7,500.0,9.77,0.0
+167,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Harduaganj Tps,Unit 5,0.0,0.0,0.0
+168,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Harduaganj Tps,Unit 7,105.0,0.0,0.0
+169,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Harduaganj Tps,Unit 8,250.0,5.53,4.63
+170,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Harduaganj Tps,Unit 9,250.0,5.33,4.69
+171,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 1,0.0,0.0,0.0
+172,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 2,0.0,0.0,0.0
+173,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 7,94.0,0.0,0.0
+174,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 8,94.0,0.0,0.0
+175,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 9,200.0,3.37,3.77
+176,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 10,200.0,3.37,0.0
+177,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 11,200.0,0.0,3.77
+178,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 12,200.0,0.0,0.0
+179,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Obra Tps,Unit 13,200.0,3.2,0.0
+180,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Panki Tps,Unit 3,105.0,1.37,0.75
+181,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Panki Tps,Unit 4,105.0,1.37,0.0
+182,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 1,110.0,0.0,0.0
+183,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 2,110.0,2.07,1.2
+184,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 3,210.0,4.33,3.85
+275,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Binjkote Tpp,Unit 1,300.0,0.0,0.0
+185,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 4,210.0,4.43,3.87
+186,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 5,250.0,5.43,5.44
+187,2017-09-01,Northern,Uttar Pradesh,9.0,State,Thermal,Parichha Tps,Unit 6,250.0,5.13,5.86
+188,2017-09-01,Northern,Uttar Pradesh,9.0,State,Hydro,Khara Hps,Single Unit,72.0,1.33,0.73
+189,2017-09-01,Northern,Uttar Pradesh,9.0,State,Hydro,Matatila Hps,Single Unit,30.6,0.33,0.0
+190,2017-09-01,Northern,Uttar Pradesh,9.0,State,Hydro,Obra Hps,Single Unit,99.0,1.0,1.03
+191,2017-09-01,Northern,Uttar Pradesh,9.0,State,Hydro,Rihand Hps,Single Unit,300.0,2.5,1.69
+192,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Anpara C Tps,Unit 1,600.0,10.97,8.81
+193,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Anpara C Tps,Unit 2,600.0,11.63,9.66
+194,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Barkhera Tps,Unit 1,45.0,0.67,0.0
+195,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Barkhera Tps,Unit 2,45.0,0.67,0.0
+196,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Khambarkhera Tps,Unit 1,45.0,0.67,0.0
+197,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Khambarkhera Tps,Unit 2,45.0,0.67,0.0
+198,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Kundarki Tps,Unit 1,45.0,0.67,0.0
+199,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Kundarki Tps,Unit 2,45.0,0.67,0.0
+200,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Lalitpur Tps,Unit 1,660.0,9.93,0.0
+201,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Lalitpur Tps,Unit 2,660.0,9.4,9.04
+202,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Lalitpur Tps,Unit 3,660.0,3.13,9.0
+203,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Maqsoodpur Tps,Unit 1,45.0,0.67,0.0
+204,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Maqsoodpur Tps,Unit 2,45.0,0.67,0.0
+205,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Prayagraj Tpp,Unit 1,660.0,6.17,12.32
+206,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Prayagraj Tpp,Unit 2,660.0,6.17,0.0
+207,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Prayagraj Tpp,Unit 3,660.0,0.0,0.0
+208,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Rosa Tpp Ph-I,Unit 1,300.0,4.93,1.39
+209,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Rosa Tpp Ph-I,Unit 2,300.0,5.93,5.92
+210,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Rosa Tpp Ph-I,Unit 3,300.0,5.23,5.74
+211,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Rosa Tpp Ph-I,Unit 4,300.0,4.93,5.63
+212,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Utraula Tps,Unit 1,45.0,0.67,0.0
+213,2017-09-01,Northern,Uttar Pradesh,9.0,Private,Thermal,Utraula Tps,Unit 2,45.0,0.67,0.0
+214,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 1,210.0,3.2,2.95
+215,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 2,210.0,3.23,0.0
+216,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 3,210.0,3.03,2.96
+217,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 4,210.0,0.0,0.0
+218,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 5,490.0,7.33,6.43
+219,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Dadri (Nctpp),Unit 6,490.0,7.63,6.27
+220,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Meja Stpp,Unit 1,0.0,0.0,0.0
+221,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Meja Stpp,Unit 2,0.0,0.0,0.0
+222,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 1,500.0,11.13,10.19
+223,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 2,500.0,10.0,10.15
+224,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 3,500.0,11.03,0.0
+225,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 4,500.0,10.0,10.55
+226,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 5,500.0,10.0,9.18
+227,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Rihand Stps,Unit 6,500.0,10.9,9.76
+228,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 1,200.0,3.93,3.15
+229,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 2,200.0,4.27,3.24
+6649,2017-09-07,Eastern,Bihar,10.0,State,Thermal,Barauni Tps,Unit 9,0.0,0.0,0.0
+230,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 3,200.0,0.0,3.56
+231,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 4,200.0,3.93,3.39
+232,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 5,200.0,3.93,3.34
+233,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 6,500.0,10.93,8.01
+234,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Singrauli Stps,Unit 7,500.0,11.11,8.0
+235,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Tanda Tps,Unit 1,110.0,2.33,2.12
+236,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Tanda Tps,Unit 2,110.0,2.13,2.15
+237,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Tanda Tps,Unit 3,110.0,2.27,2.14
+238,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Tanda Tps,Unit 4,110.0,2.13,2.12
+239,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 1,210.0,3.95,3.13
+240,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 2,210.0,3.67,3.23
+241,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 3,210.0,3.67,2.89
+242,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 4,210.0,3.93,2.94
+243,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 5,210.0,3.93,2.94
+244,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Thermal,Unchahar Tps,Unit 6,500.0,0.0,6.26
+245,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Ther (Gt),Auraiya Ccpp,Single Unit,663.36,2.22,0.0
+246,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Ther (Gt),Dadri Ccpp,Single Unit,829.78,6.0,2.84
+247,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Nuclear,Narora A.P.S,Unit 1,220.0,4.5,5.04
+248,2017-09-01,Northern,Uttar Pradesh,9.0,Central,Nuclear,Narora A.P.S,Unit 2,220.0,4.0,5.11
+249,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Dspm Tps,Unit 1,250.0,5.3,5.99
+250,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Dspm Tps,Unit 2,250.0,5.23,6.0
+251,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Ii,Unit 1,50.0,0.7,0.0
+276,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Binjkote Tpp,Unit 2,0.0,0.0,0.0
+252,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Ii,Unit 2,50.0,0.7,0.57
+253,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Ii,Unit 3,50.0,0.7,0.0
+254,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Ii,Unit 4,50.0,0.7,0.0
+255,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Iii,Unit 1,120.0,2.03,1.95
+256,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-Iii,Unit 2,120.0,1.93,1.94
+257,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-West Tps,Unit 1,210.0,0.0,2.92
+258,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-West Tps,Unit 2,210.0,3.83,0.0
+259,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-West Tps,Unit 3,210.0,3.83,4.61
+260,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-West Tps,Unit 4,210.0,4.33,4.06
+261,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Korba-West Tps,Unit 5,500.0,9.3,11.28
+262,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Marwa Tps,Unit 1,500.0,2.73,7.17
+263,2017-09-01,Western,Chhatisgarh,22.0,State,Thermal,Marwa Tps,Unit 2,500.0,8.23,7.78
+264,2017-09-01,Western,Chhatisgarh,22.0,State,Hydro,Hasdeobango Hps,Single Unit,120.0,1.67,1.69
+265,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Akaltara Tps,Unit 1,0.0,0.0,0.0
+266,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Akaltara Tps,Unit 2,0.0,0.0,0.0
+267,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Akaltara Tps,Unit 3,600.0,8.23,14.11
+268,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Akaltara Tps,Unit 4,600.0,8.23,0.0
+269,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Avantha Bhandar,Unit 1,600.0,6.83,0.0
+270,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Balco Tps,Unit 1,300.0,4.1,0.0
+271,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Balco Tps,Unit 2,300.0,4.1,4.88
+272,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Bandakhar Tpp,Unit 1,300.0,4.1,0.0
+273,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Baradarha Tps,Unit 1,600.0,8.9,0.0
+274,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Baradarha Tps,Unit 2,600.0,8.9,9.97
+277,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Chakabura Tpp,Unit 1,0.0,0.0,0.0
+278,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Chakabura Tpp,Unit 2,30.0,0.53,0.64
+279,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Kasaipalli Tpp,Unit 1,135.0,2.47,3.23
+280,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Kasaipalli Tpp,Unit 2,135.0,2.63,0.0
+281,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Katghora Tpp,Unit 1,35.0,0.0,0.0
+282,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Nawapara Tpp,Unit 1,300.0,4.1,5.81
+283,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Nawapara Tpp,Unit 2,300.0,0.0,0.0
+284,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Op Jindal Tps,Unit 1,250.0,3.0,0.0
+285,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Op Jindal Tps,Unit 2,250.0,3.63,4.51
+286,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Op Jindal Tps,Unit 3,250.0,3.0,4.61
+287,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Op Jindal Tps,Unit 4,250.0,0.0,4.54
+288,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Pathadi Stage Ii,Unit 1,0.0,0.0,0.0
+289,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Pathadi Tpp,Unit 1,300.0,4.93,0.0
+290,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Pathadi Tpp,Unit 2,300.0,4.93,5.45
+291,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Raikheda Tpp,Unit 1,685.0,2.2,0.0
+292,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Raikheda Tpp,Unit 2,685.0,2.2,0.0
+293,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Ratija Tps,Unit 1,50.0,0.83,1.01
+294,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Ratija Tps,Unit 2,50.0,0.27,1.08
+295,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Salora Tpp,Unit 1,135.0,0.0,0.0
+296,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Salora Tpp,Unit 2,0.0,0.0,0.0
+297,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Singhitarai Tpp,Unit 1,0.0,0.0,0.0
+298,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Singhitarai Tpp,Unit 2,0.0,0.0,0.0
+299,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Svpl Tpp,Unit 1,63.0,0.0,0.0
+300,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Swastik Korba Tpp,Unit 1,25.0,0.0,0.0
+301,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Tamnar Tpp,Unit 1,600.0,4.1,0.0
+302,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Tamnar Tpp,Unit 2,600.0,4.1,0.0
+303,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Tamnar Tpp,Unit 3,600.0,4.1,10.27
+304,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Tamnar Tpp,Unit 4,600.0,0.0,0.0
+305,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Uchpinda Tpp,Unit 1,360.0,2.5,5.44
+306,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Uchpinda Tpp,Unit 2,360.0,2.5,0.0
+307,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Uchpinda Tpp,Unit 3,0.0,0.0,0.0
+308,2017-09-01,Western,Chhatisgarh,22.0,Private,Thermal,Uchpinda Tpp,Unit 4,0.0,0.0,0.0
+309,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Bhilai Tps,Unit 1,250.0,5.13,5.62
+310,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Bhilai Tps,Unit 2,250.0,5.13,5.68
+311,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 1,200.0,4.47,3.93
+312,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 2,200.0,0.0,4.31
+313,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 3,200.0,4.13,4.93
+314,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 4,500.0,10.3,12.06
+315,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 5,500.0,11.2,0.0
+316,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 6,500.0,10.43,12.0
+317,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Korba Stps,Unit 7,500.0,11.07,11.95
+318,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Lara Tpp,Unit 1,0.0,0.0,0.0
+319,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Lara Tpp,Unit 2,0.0,0.0,0.0
+320,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Sipat Stps,Unit 1,660.0,14.57,15.75
+321,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Sipat Stps,Unit 2,660.0,13.37,15.8
+322,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Sipat Stps,Unit 3,660.0,13.37,15.47
+323,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Sipat Stps,Unit 4,500.0,10.07,11.46
+324,2017-09-01,Western,Chhatisgarh,22.0,Central,Thermal,Sipat Stps,Unit 5,500.0,10.8,9.81
+325,2017-09-01,Western,Goa,30.0,Private,Ther (Gt),Goa Ccpp (Liq.),Single Unit,48.0,0.0,0.0
+326,2017-09-01,Western,Gujarat,24.0,State,Thermal,Akrimota Lig Tps,Unit 1,125.0,2.2,0.01
+327,2017-09-01,Western,Gujarat,24.0,State,Thermal,Akrimota Lig Tps,Unit 2,125.0,2.2,2.25
+328,2017-09-01,Western,Gujarat,24.0,State,Thermal,Bhavnagar Cfbc Tpp,Unit 1,250.0,0.53,0.0
+329,2017-09-01,Western,Gujarat,24.0,State,Thermal,Bhavnagar Cfbc Tpp,Unit 2,250.0,0.0,0.0
+330,2017-09-01,Western,Gujarat,24.0,State,Thermal,Gandhi Nagar Tps,Unit 3,210.0,2.1,0.0
+331,2017-09-01,Western,Gujarat,24.0,State,Thermal,Gandhi Nagar Tps,Unit 4,210.0,2.13,0.0
+332,2017-09-01,Western,Gujarat,24.0,State,Thermal,Gandhi Nagar Tps,Unit 5,210.0,2.1,4.44
+333,2017-09-01,Western,Gujarat,24.0,State,Thermal,Kutch Lig. Tps,Unit 1,70.0,0.0,0.0
+334,2017-09-01,Western,Gujarat,24.0,State,Thermal,Kutch Lig. Tps,Unit 2,70.0,1.17,1.32
+335,2017-09-01,Western,Gujarat,24.0,State,Thermal,Kutch Lig. Tps,Unit 3,75.0,1.17,0.0
+336,2017-09-01,Western,Gujarat,24.0,State,Thermal,Kutch Lig. Tps,Unit 4,75.0,1.17,0.64
+337,2017-09-01,Western,Gujarat,24.0,State,Thermal,Sikka Rep. Tps,Unit 1,0.0,0.0,0.0
+338,2017-09-01,Western,Gujarat,24.0,State,Thermal,Sikka Rep. Tps,Unit 2,0.0,0.0,0.0
+339,2017-09-01,Western,Gujarat,24.0,State,Thermal,Sikka Rep. Tps,Unit 3,250.0,0.0,0.0
+340,2017-09-01,Western,Gujarat,24.0,State,Thermal,Sikka Rep. Tps,Unit 4,250.0,2.9,0.0
+341,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 1,0.0,0.0,0.0
+342,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 2,0.0,0.0,0.0
+343,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 3,200.0,2.03,4.3
+344,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 4,200.0,2.03,0.0
+345,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 5,210.0,1.93,0.0
+346,2017-09-01,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 6,500.0,8.67,10.94
+347,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 1,210.0,1.57,0.0
+348,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 2,210.0,1.67,0.0
+349,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 3,210.0,0.0,0.0
+350,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 4,210.0,1.57,0.0
+351,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 5,210.0,1.67,0.0
+352,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 6,210.0,1.67,0.0
+353,2017-09-01,Western,Gujarat,24.0,State,Thermal,Wanakbori Tps,Unit 7,210.0,1.57,4.23
+354,2017-09-01,Western,Gujarat,24.0,State,Ther (Gt),Dhuvaran Ccpp,Single Unit,594.72,0.82,1.46
+355,2017-09-01,Western,Gujarat,24.0,State,Ther (Gt),Hazira Ccpp,Single Unit,156.1,0.3,0.0
+356,2017-09-01,Western,Gujarat,24.0,State,Ther (Gt),Hazira Ccpp Ext,Single Unit,351.0,0.6,0.0
+357,2017-09-01,Western,Gujarat,24.0,State,Ther (Gt),Pipavav Ccpp,Single Unit,702.0,1.4,0.0
+358,2017-09-01,Western,Gujarat,24.0,State,Ther (Gt),Utran Ccpp,Single Unit,374.0,0.6,0.0
+359,2017-09-01,Western,Gujarat,24.0,State,Hydro,Kadana Hps,Single Unit,240.0,1.43,1.97
+360,2017-09-01,Western,Gujarat,24.0,State,Hydro,S Sarovar Chph Hps,Single Unit,250.0,2.6,0.54
+361,2017-09-01,Western,Gujarat,24.0,State,Hydro,S Sarovar Rbph Hps,Single Unit,1200.0,28.4,0.0
+362,2017-09-01,Western,Gujarat,24.0,State,Hydro,Ukai Hps,Single Unit,300.0,2.67,0.0
+363,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 1,330.0,5.9,7.15
+364,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 2,330.0,5.47,0.0
+365,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 3,330.0,5.77,0.0
+366,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 4,330.0,5.77,0.0
+367,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 5,660.0,11.77,12.37
+368,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 6,660.0,0.0,9.5
+369,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 7,660.0,11.77,0.0
+370,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 8,660.0,12.93,10.78
+371,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Tps,Unit 9,660.0,11.93,12.99
+372,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Umtpp,Unit 1,800.0,15.07,15.37
+373,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Umtpp,Unit 2,800.0,17.67,16.93
+374,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Umtpp,Unit 3,800.0,16.2,18.37
+375,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Umtpp,Unit 4,800.0,13.27,15.39
+376,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Mundra Umtpp,Unit 5,800.0,21.8,13.87
+377,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Sabarmati (C Station),Unit 15,30.0,0.0,0.0
+378,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Sabarmati (C Station),Unit 16,30.0,0.0,0.0
+379,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Sabarmati (D-F Stations),Unit 1,120.0,2.17,1.97
+380,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Sabarmati (D-F Stations),Unit 2,121.0,2.27,2.04
+381,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Sabarmati (D-F Stations),Unit 3,121.0,2.3,2.1
+382,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Salaya Tpp,Unit 1,600.0,7.67,11.04
+383,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Salaya Tpp,Unit 2,600.0,7.67,0.0
+384,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Surat Lig. Tps,Unit 1,125.0,2.57,2.51
+385,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Surat Lig. Tps,Unit 2,125.0,2.57,2.62
+386,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Surat Lig. Tps,Unit 3,125.0,2.6,2.76
+387,2017-09-01,Western,Gujarat,24.0,Private,Thermal,Surat Lig. Tps,Unit 4,125.0,2.6,2.38
+388,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Baroda Ccpp,Single Unit,160.0,0.6,0.0
+389,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Dgen Mega Ccpp,Single Unit,1200.0,0.0,0.0
+390,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Essar Ccpp,Single Unit,515.0,0.0,0.0
+391,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Gipcl. Gt Imp,Single Unit,0.0,0.47,0.64
+392,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Peguthan Ccpp,Single Unit,655.0,0.84,1.0
+393,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Sugen Ccpp,Single Unit,1147.5,11.49,20.16
+394,2017-09-01,Western,Gujarat,24.0,Private,Ther (Gt),Unosugen Ccpp,Single Unit,382.5,0.0,0.0
+395,2017-09-01,Western,Gujarat,24.0,Central,Ther (Gt),Gandhar Ccpp,Single Unit,657.39,5.03,8.69
+396,2017-09-01,Western,Gujarat,24.0,Central,Ther (Gt),Kawas Ccpp,Single Unit,656.2,3.48,0.0
+397,2017-09-01,Western,Gujarat,24.0,Central,Nuclear,Kakrapara,Unit 1,220.0,0.0,0.0
+398,2017-09-01,Western,Gujarat,24.0,Central,Nuclear,Kakrapara,Unit 2,220.0,0.0,0.0
+399,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Amarkantak Ext Tps,Unit 3,210.0,4.1,4.82
+400,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Sanjay Gandhi Tps,Unit 1,210.0,2.8,3.14
+401,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Sanjay Gandhi Tps,Unit 2,210.0,2.47,3.13
+402,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Sanjay Gandhi Tps,Unit 3,210.0,2.63,0.0
+403,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Sanjay Gandhi Tps,Unit 4,210.0,2.47,3.21
+404,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Sanjay Gandhi Tps,Unit 5,500.0,10.17,8.8
+405,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 6,200.0,0.0,3.99
+406,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 7,210.0,0.0,4.12
+407,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 8,210.0,1.47,0.0
+408,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 9,210.0,1.47,0.0
+409,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 10,250.0,4.1,2.13
+410,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Satpura Tps,Unit 11,250.0,4.77,0.0
+411,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Shri Singhaji Tpp,Unit 1,600.0,8.23,13.02
+412,2017-09-01,Western,Madhya Pradesh,23.0,State,Thermal,Shri Singhaji Tpp,Unit 2,600.0,8.23,0.0
+413,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Bansagar Tons-I Hps,Single Unit,315.0,4.0,1.31
+414,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Bansagar Tons-Ii Hps,Single Unit,30.0,0.4,0.05
+415,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Bansagar Tons-Iii Hps,Single Unit,60.0,0.8,0.0
+416,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Bargi Hps,Single Unit,90.0,1.67,0.0
+417,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Gandhi Sagar Hps,Single Unit,115.0,1.33,0.55
+418,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Madhikhera Hps,Single Unit,60.0,0.5,0.0
+419,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Pench Hps,Single Unit,160.0,1.67,0.15
+420,2017-09-01,Western,Madhya Pradesh,23.0,State,Hydro,Rajghat Hps,Single Unit,45.0,0.5,0.0
+421,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Anuppur Tpp,Unit 1,600.0,9.6,7.47
+422,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Anuppur Tpp,Unit 2,600.0,2.73,7.81
+423,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Bina Tps,Unit 1,250.0,2.73,4.23
+424,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Bina Tps,Unit 2,250.0,2.73,0.0
+425,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Mahan Tpp,Unit 1,600.0,7.67,0.0
+426,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Mahan Tpp,Unit 2,0.0,0.0,0.0
+427,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Nigri Tpp,Unit 1,660.0,10.27,15.42
+428,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Nigri Tpp,Unit 2,660.0,10.27,0.58
+429,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Niwari Tpp,Unit 1,45.0,0.7,0.0
+430,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Niwari Tpp,Unit 2,0.0,0.0,0.0
+431,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 1,660.0,13.7,15.37
+432,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 2,660.0,13.7,5.62
+433,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 3,660.0,13.7,15.34
+434,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 4,660.0,13.7,15.0
+435,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 5,660.0,13.7,15.47
+436,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Sasan Umtpp,Unit 6,660.0,13.7,15.36
+437,2017-09-01,Western,Madhya Pradesh,23.0,Private,Thermal,Seioni Tpp,Unit 1,600.0,4.1,9.69
+438,2017-09-01,Western,Madhya Pradesh,23.0,Private,Hydro,Maheshwar Hps,Single Unit,0.0,0.0,0.0
+439,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Gadarwara Tpp,Unit 1,0.0,0.0,0.0
+440,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 1,210.0,3.7,3.15
+441,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 2,210.0,3.63,5.04
+442,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 3,210.0,4.0,5.05
+443,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 4,210.0,3.9,4.72
+444,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 5,210.0,3.83,4.54
+445,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 6,210.0,3.9,5.12
+446,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 7,500.0,9.83,11.77
+447,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 8,500.0,8.63,11.51
+448,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 9,500.0,8.63,11.6
+449,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 10,500.0,0.0,11.79
+450,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 11,500.0,8.63,12.01
+451,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 12,500.0,9.23,11.45
+452,2017-09-01,Western,Madhya Pradesh,23.0,Central,Thermal,Vindhyachal Stps,Unit 13,500.0,8.63,11.47
+453,2017-09-01,Western,Madhya Pradesh,23.0,Central,Hydro,Indira Sagar Hps,Single Unit,1000.0,6.33,0.45
+454,2017-09-01,Western,Madhya Pradesh,23.0,Central,Hydro,Omkareshwar Hps,Single Unit,520.0,3.4,0.3
+455,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Bhusawal Tps,Unit 2,0.0,0.0,0.0
+456,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Bhusawal Tps,Unit 3,210.0,1.1,0.0
+457,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Bhusawal Tps,Unit 4,500.0,7.67,0.0
+458,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Bhusawal Tps,Unit 5,500.0,8.27,9.15
+459,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 3,210.0,3.03,4.73
+460,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 4,210.0,3.27,0.0
+461,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 5,500.0,8.13,5.9
+462,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 6,500.0,8.13,7.9
+463,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 7,500.0,7.57,0.0
+464,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 8,500.0,8.13,10.76
+465,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Chandrapur(Maharashtra) Stps,Unit 9,500.0,8.13,0.0
+466,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Khaparkheda Tps,Unit 1,210.0,3.57,2.54
+467,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Khaparkheda Tps,Unit 2,210.0,3.83,2.89
+468,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Khaparkheda Tps,Unit 3,210.0,3.57,3.56
+469,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Khaparkheda Tps,Unit 4,210.0,0.0,0.0
+470,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Khaparkheda Tps,Unit 5,500.0,8.23,7.68
+471,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 5,0.0,0.0,0.0
+472,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 6,210.0,0.0,0.0
+473,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 7,210.0,2.73,3.27
+474,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 8,660.0,10.97,11.9
+475,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 9,660.0,11.97,9.82
+476,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Koradi Tps,Unit 10,660.0,3.0,0.0
+477,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Nasik Tps,Unit 3,210.0,3.63,0.0
+478,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Nasik Tps,Unit 4,210.0,3.43,4.25
+479,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Nasik Tps,Unit 5,210.0,3.43,0.0
+480,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Paras Tps,Unit 3,250.0,4.53,4.68
+481,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Paras Tps,Unit 4,250.0,4.83,4.58
+482,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Parli Tps,Unit 4,210.0,0.0,0.0
+483,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Parli Tps,Unit 5,210.0,0.0,0.0
+484,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Parli Tps,Unit 6,250.0,3.3,4.59
+485,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Parli Tps,Unit 7,250.0,3.3,4.41
+486,2017-09-01,Western,Maharashtra,27.0,State,Thermal,Parli Tps,Unit 8,250.0,3.53,0.0
+487,2017-09-01,Western,Maharashtra,27.0,State,Ther (Gt),Uran Ccpp,Single Unit,672.0,6.86,4.17
+488,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Bhira Tail Race Hps,Single Unit,80.0,0.4,0.38
+489,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Ghatghar Pss Hps,Single Unit,250.0,1.17,0.0
+490,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Koyna Dph Hps,Single Unit,36.0,0.5,0.0
+491,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Koyna-I Hps,Single Unit,280.0,3.47,0.88
+492,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Koyna-Ii Hps,Single Unit,320.0,0.0,0.88
+493,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Koyna-Iii Hps,Single Unit,320.0,1.33,1.41
+494,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Koyna-Iv Hps,Single Unit,1000.0,3.37,2.62
+495,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Tillari Hps,Single Unit,60.0,0.4,0.12
+496,2017-09-01,Western,Maharashtra,27.0,State,Hydro,Vaitarna Hps,Single Unit,60.0,0.0,0.93
+497,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Amaravati Tps,Unit 1,270.0,1.4,5.73
+498,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Amaravati Tps,Unit 2,270.0,1.4,0.0
+499,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Amaravati Tps,Unit 3,270.0,1.37,5.84
+500,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Amaravati Tps,Unit 4,270.0,1.37,0.0
+501,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Amaravati Tps,Unit 5,270.0,1.4,5.61
+502,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Bela Tps,Unit 1,270.0,0.0,0.0
+503,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Butibori Tpp,Unit 1,300.0,5.77,0.0
+504,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Butibori Tpp,Unit 2,300.0,5.2,7.47
+505,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Dahanu Tps,Unit 1,250.0,5.3,5.02
+506,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Dahanu Tps,Unit 2,250.0,5.67,5.05
+507,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Dhariwal Tpp,Unit 1,300.0,0.0,0.0
+508,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Dhariwal Tpp,Unit 2,300.0,4.33,6.46
+509,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Gepl Tpp Ph-I,Unit 1,60.0,0.0,0.0
+510,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Gepl Tpp Ph-I,Unit 2,60.0,0.0,0.0
+511,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Gmr Warora Tps,Unit 1,300.0,4.8,0.0
+512,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Gmr Warora Tps,Unit 2,300.0,4.8,6.57
+513,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Jsw Ratnagiri Tpp,Unit 1,300.0,5.23,7.54
+514,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Jsw Ratnagiri Tpp,Unit 2,300.0,4.8,0.0
+515,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Jsw Ratnagiri Tpp,Unit 3,300.0,4.8,4.0
+516,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Jsw Ratnagiri Tpp,Unit 4,300.0,5.4,4.34
+517,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Lanco Vidarbha Tpp,Unit 1,0.0,0.0,0.0
+518,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Mihan Tps,Unit 1,61.5,0.0,0.0
+519,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Mihan Tps,Unit 2,61.5,0.0,0.0
+520,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Mihan Tps,Unit 3,61.5,0.0,0.0
+521,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Mihan Tps,Unit 4,61.5,0.0,0.0
+522,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Nasik (P) Tps,Unit 1,270.0,0.0,0.0
+523,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Nasik (P) Tps,Unit 2,270.0,0.0,0.0
+524,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Nasik (P) Tps,Unit 3,270.0,0.0,0.0
+525,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Nasik (P) Tps,Unit 4,270.0,0.0,0.0
+526,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Nasik (P) Tps,Unit 5,270.0,0.0,0.0
+527,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Tirora Tps,Unit 1,660.0,10.6,0.0
+528,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Tirora Tps,Unit 2,660.0,10.6,0.0
+529,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Tirora Tps,Unit 3,660.0,9.87,15.61
+530,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Tirora Tps,Unit 4,660.0,10.6,13.63
+531,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Tirora Tps,Unit 5,660.0,9.87,13.6
+532,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Trombay Tps,Unit 5,500.0,10.2,9.27
+533,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Trombay Tps,Unit 6,500.0,0.0,0.0
+534,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Trombay Tps,Unit 8,250.0,5.43,5.18
+535,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Wardha Warora Tpp,Unit 1,135.0,0.0,0.0
+536,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Wardha Warora Tpp,Unit 2,135.0,0.0,0.0
+537,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Wardha Warora Tpp,Unit 3,135.0,2.13,0.0
+538,2017-09-01,Western,Maharashtra,27.0,Private,Thermal,Wardha Warora Tpp,Unit 4,135.0,2.13,2.38
+539,2017-09-01,Western,Maharashtra,27.0,Private,Ther (Gt),Mangaon Ccpp,Single Unit,388.0,1.37,0.0
+540,2017-09-01,Western,Maharashtra,27.0,Private,Ther (Gt),Trombay Ccpp,Single Unit,180.0,2.4,1.97
+541,2017-09-01,Western,Maharashtra,27.0,Private,Hydro,Bhandardhara Hps St-Ii,Single Unit,34.0,0.0,0.34
+542,2017-09-01,Western,Maharashtra,27.0,Private,Hydro,Bhira Hps,Single Unit,150.0,2.83,1.81
+543,2017-09-01,Western,Maharashtra,27.0,Private,Hydro,Bhira Pss Hps,Single Unit,150.0,0.0,2.25
+544,2017-09-01,Western,Maharashtra,27.0,Private,Hydro,Bhivpuri Hps,Single Unit,75.0,0.33,1.19
+545,2017-09-01,Western,Maharashtra,27.0,Private,Hydro,Khopoli Hps,Single Unit,72.0,0.83,1.71
+546,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Mauda Tps,Unit 1,500.0,4.1,9.17
+547,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Mauda Tps,Unit 2,500.0,4.4,9.29
+548,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Mauda Tps,Unit 3,660.0,3.57,0.0
+549,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Mauda Tps,Unit 4,660.0,0.0,0.0
+550,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Solapur Stps,Unit 1,660.0,0.0,0.0
+551,2017-09-01,Western,Maharashtra,27.0,Central,Thermal,Solapur Stps,Unit 2,0.0,0.0,0.0
+552,2017-09-01,Western,Maharashtra,27.0,Central,Ther (Gt),Ratnagiri Ccpp,Single Unit,2220.0,11.58,12.07
+553,2017-09-01,Western,Maharashtra,27.0,Central,Nuclear,Tarapur,Unit 1,160.0,0.77,0.0
+554,2017-09-01,Western,Maharashtra,27.0,Central,Nuclear,Tarapur,Unit 2,160.0,2.4,3.81
+555,2017-09-01,Western,Maharashtra,27.0,Central,Nuclear,Tarapur,Unit 3,540.0,11.0,0.0
+556,2017-09-01,Western,Maharashtra,27.0,Central,Nuclear,Tarapur,Unit 4,540.0,11.0,0.0
+557,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Damodaram Sanjeevaiah Tps,Unit 1,800.0,12.6,10.08
+558,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Damodaram Sanjeevaiah Tps,Unit 2,800.0,12.6,13.16
+559,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 1,210.0,4.3,4.24
+560,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 2,210.0,4.7,4.26
+561,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 3,210.0,4.3,4.37
+562,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 4,210.0,4.3,3.87
+563,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 5,210.0,4.3,3.4
+564,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 6,210.0,0.0,4.46
+565,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Dr. N.Tata Rao Tps,Unit 7,500.0,10.03,11.36
+566,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 1,210.0,4.3,4.26
+567,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 2,210.0,0.0,3.88
+568,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 3,210.0,4.1,0.0
+569,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 4,210.0,4.3,4.7
+570,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 5,210.0,4.3,4.5
+571,2017-09-01,Southern,Andhra Pradesh,28.0,State,Thermal,Rayalaseema Tps,Unit 6,0.0,0.0,0.0
+572,2017-09-01,Southern,Andhra Pradesh,28.0,State,Ther (Gt),Jegurupadu Ccpp Ph I,Single Unit,235.4,2.67,3.04
+573,2017-09-01,Southern,Andhra Pradesh,28.0,State,Hydro,Nagarjun Sgr Rbc Extn. Hps,Single Unit,0.0,0.0,0.0
+574,2017-09-01,Southern,Andhra Pradesh,28.0,State,Hydro,Nagarjun Sgr Rbc Hps,Single Unit,90.0,0.83,0.0
+575,2017-09-01,Southern,Andhra Pradesh,28.0,State,Hydro,Nagarjun Sgr Tpd,Single Unit,50.0,0.6,0.0
+576,2017-09-01,Southern,Andhra Pradesh,28.0,State,Hydro,Srisailam Hps,Single Unit,770.0,7.77,0.0
+577,2017-09-01,Southern,Andhra Pradesh,28.0,State,Hydro,Upper Sileru Hps,Single Unit,240.0,0.87,1.63
+6650,2017-09-07,Eastern,Bihar,10.0,Central,Thermal,Barh I,Unit 1,0.0,0.0,0.0
+578,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Painampuram Tpp,Unit 1,660.0,11.23,15.0
+579,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Painampuram Tpp,Unit 2,660.0,11.23,15.39
+580,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Sgpl Tpp,Unit 1,660.0,7.07,15.41
+581,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Sgpl Tpp,Unit 2,660.0,3.57,12.28
+582,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Simhapuri Tps,Unit 1,150.0,1.43,0.0
+583,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Simhapuri Tps,Unit 2,150.0,0.0,0.0
+584,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Simhapuri Tps,Unit 3,150.0,1.43,0.0
+585,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Simhapuri Tps,Unit 4,150.0,1.43,0.0
+586,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Thamminapatnam Tps,Unit 1,150.0,1.73,0.0
+587,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Thamminapatnam Tps,Unit 2,150.0,1.73,2.0
+588,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Thamminapatnam Tps,Unit 3,0.0,0.0,0.0
+589,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Thamminapatnam Tps,Unit 4,0.0,0.0,0.0
+590,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Vizag Tpp,Unit 1,520.0,6.03,0.0
+591,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Thermal,Vizag Tpp,Unit 2,520.0,6.03,0.0
+592,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Gautami Ccpp,Single Unit,464.0,0.0,0.0
+593,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Gmr Energy Ltd - Kakinada,Single Unit,220.0,0.0,0.0
+594,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Godavari Ccpp,Single Unit,208.0,2.76,0.0
+595,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Grel Ccpp (Rajahmundry),Single Unit,768.0,1.66,0.0
+596,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Jegurupadu Ccpp Ph Ii,Single Unit,220.0,0.26,0.0
+597,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Konaseema Ccpp,Single Unit,445.0,0.0,0.0
+598,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Kondapalli Ccpp,Single Unit,350.0,1.59,0.0
+599,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Kondapalli Extn Ccpp,Single Unit,366.0,0.53,0.0
+600,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Kondapalli St-3 Ccpp,Single Unit,742.0,3.86,0.0
+601,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Peddapuram Ccpp,Single Unit,220.0,0.0,0.0
+602,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Vemagiri Ccpp,Single Unit,370.0,1.1,0.0
+603,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Gt),Vijjeswaram Ccpp,Single Unit,272.0,1.63,4.35
+604,2017-09-01,Southern,Andhra Pradesh,28.0,Private,Ther (Dg),Lvs Power Dg,Single Unit,36.8,0.0,0.0
+605,2017-09-01,Southern,Andhra Pradesh,28.0,Central,Thermal,Simhadri,Unit 1,500.0,9.67,10.34
+606,2017-09-01,Southern,Andhra Pradesh,28.0,Central,Thermal,Simhadri,Unit 2,500.0,11.0,11.04
+607,2017-09-01,Southern,Andhra Pradesh,28.0,Central,Thermal,Simhadri,Unit 3,500.0,0.0,0.0
+608,2017-09-01,Southern,Andhra Pradesh,28.0,Central,Thermal,Simhadri,Unit 4,500.0,9.67,11.29
+609,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Bellary Tps,Unit 1,500.0,8.88,10.21
+610,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Bellary Tps,Unit 2,500.0,8.87,0.0
+611,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Bellary Tps,Unit 3,700.0,10.7,0.0
+612,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 1,210.0,0.0,0.0
+613,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 2,210.0,0.0,4.88
+614,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 3,210.0,3.77,0.0
+615,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 4,210.0,3.73,4.97
+616,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 5,210.0,4.1,0.0
+617,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 6,210.0,3.9,4.91
+618,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 7,210.0,3.9,4.88
+619,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Raichur Tps,Unit 8,250.0,4.67,5.89
+620,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Yermarus Tpp,Unit 1,800.0,10.97,0.0
+621,2017-09-01,Southern,Karnataka,29.0,State,Thermal,Yermarus Tpp,Unit 2,800.0,0.0,0.0
+622,2017-09-01,Southern,Karnataka,29.0,State,Ther (Dg),Yelhanka (Dg),Single Unit,127.92,0.0,0.0
+623,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Almatti Dph Hps,Single Unit,290.0,3.67,6.84
+624,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Bhadra Hps,Single Unit,39.2,0.3,0.0
+625,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Gerusuppa Hps,Single Unit,240.0,1.6,1.05
+626,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Ghat Prabha Hps,Single Unit,32.0,0.37,0.0
+627,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Hampi Hps,Single Unit,36.0,0.93,0.28
+628,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Jog Hps,Single Unit,139.2,0.73,0.48
+629,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Kadra Hps,Single Unit,150.0,1.17,1.29
+630,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Kalinadi Hps,Single Unit,855.0,5.1,6.69
+631,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Kalinadi Supa Hps,Single Unit,100.0,0.67,1.1
+632,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Kodasali Hps,Single Unit,120.0,0.87,0.84
+633,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Liganamakki Hps,Single Unit,55.0,0.77,0.41
+634,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Munirabad Hps,Single Unit,28.0,0.63,0.19
+635,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Sharavathi Hps,Single Unit,1035.0,12.77,7.53
+636,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Sivasamundrum Hps,Single Unit,42.0,1.0,1.0
+637,2017-09-01,Southern,Karnataka,29.0,State,Hydro,T B Dam Hps,Single Unit,36.0,0.0,0.46
+638,2017-09-01,Southern,Karnataka,29.0,State,Hydro,Varahi Hps,Single Unit,460.0,2.73,2.42
+639,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Torangallu Tps(Sbu-I),Unit 1,130.0,2.2,0.0
+640,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Torangallu Tps(Sbu-I),Unit 2,130.0,2.27,2.91
+641,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Torangallu Tps(Sbu-Ii),Unit 3,300.0,3.67,4.05
+642,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Torangallu Tps(Sbu-Ii),Unit 4,300.0,3.57,0.0
+643,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Udupi Tpp,Unit 1,600.0,0.0,0.0
+644,2017-09-01,Southern,Karnataka,29.0,Private,Thermal,Udupi Tpp,Unit 2,600.0,11.77,13.61
+645,2017-09-01,Southern,Karnataka,29.0,Private,Ther (Dg),Bellary Dg,Single Unit,25.2,0.0,0.0
+646,2017-09-01,Southern,Karnataka,29.0,Central,Thermal,Kudgi Stpp,Unit 1,800.0,3.57,14.77
+647,2017-09-01,Southern,Karnataka,29.0,Central,Thermal,Kudgi Stpp,Unit 2,800.0,0.0,0.0
+648,2017-09-01,Southern,Karnataka,29.0,Central,Thermal,Kudgi Stpp,Unit 3,0.0,0.0,0.0
+649,2017-09-01,Southern,Karnataka,29.0,Central,Nuclear,Kaiga,Unit 1,220.0,4.5,5.28
+650,2017-09-01,Southern,Karnataka,29.0,Central,Nuclear,Kaiga,Unit 2,220.0,4.5,5.26
+651,2017-09-01,Southern,Karnataka,29.0,Central,Nuclear,Kaiga,Unit 3,220.0,4.5,5.24
+652,2017-09-01,Southern,Karnataka,29.0,Central,Nuclear,Kaiga,Unit 4,220.0,0.0,5.67
+653,2017-09-01,Southern,Kerala,32.0,State,Ther (Dg),Bramhapuram Dg,Single Unit,63.96,0.0,0.0
+654,2017-09-01,Southern,Kerala,32.0,State,Ther (Dg),Kozhikode Dg,Single Unit,96.0,0.18,0.0
+655,2017-09-01,Southern,Kerala,32.0,State,Hydro,Idamalayar Hps,Single Unit,75.0,0.97,0.0
+656,2017-09-01,Southern,Kerala,32.0,State,Hydro,Idukki Hps,Single Unit,780.0,6.7,2.32
+657,2017-09-01,Southern,Kerala,32.0,State,Hydro,Kakkad Hps,Single Unit,50.0,0.57,0.62
+658,2017-09-01,Southern,Kerala,32.0,State,Hydro,Kuttiyadi Addl Extn,Single Unit,100.0,0.0,0.95
+659,2017-09-01,Southern,Kerala,32.0,State,Hydro,Kuttiyadi Hps,Single Unit,125.0,2.7,2.31
+660,2017-09-01,Southern,Kerala,32.0,State,Hydro,Lower Periyar Hps,Single Unit,180.0,2.27,4.08
+661,2017-09-01,Southern,Kerala,32.0,State,Hydro,Nariamanglam Hps,Single Unit,70.0,1.4,1.85
+662,2017-09-01,Southern,Kerala,32.0,State,Hydro,Pallivasal Hps,Single Unit,37.5,0.63,0.64
+663,2017-09-01,Southern,Kerala,32.0,State,Hydro,Panniar Hps,Single Unit,30.0,0.53,0.76
+664,2017-09-01,Southern,Kerala,32.0,State,Hydro,Poringalkuttu Hps,Single Unit,32.0,0.63,0.65
+665,2017-09-01,Southern,Kerala,32.0,State,Hydro,Sabarigiri Hps,Single Unit,300.0,3.67,2.64
+666,2017-09-01,Southern,Kerala,32.0,State,Hydro,Sengulam Hps,Single Unit,48.0,0.5,0.65
+667,2017-09-01,Southern,Kerala,32.0,State,Hydro,Sholayar Hps,Single Unit,54.0,0.53,0.0
+668,2017-09-01,Southern,Kerala,32.0,Private,Ther (Gt),Cochin Ccpp (Liq.),Single Unit,174.0,0.0,0.0
+669,2017-09-01,Southern,Kerala,32.0,Central,Ther (Gt),R. Gandhi Ccpp (Liq.),Single Unit,359.58,0.09,0.0
+670,2017-09-01,Southern,Puducherry,34.0,State,Ther (Gt),Karaikal Ccpp,Single Unit,32.5,0.6,0.63
+671,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Mettur Tps,Unit 1,210.0,4.3,4.85
+672,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Mettur Tps,Unit 2,210.0,4.3,4.83
+673,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Mettur Tps,Unit 3,210.0,4.3,4.8
+674,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Mettur Tps,Unit 4,210.0,0.0,5.0
+675,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Mettur Tps - Ii,Unit 1,600.0,10.43,0.0
+676,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,North Chennai Tps,Unit 1,210.0,4.5,4.99
+677,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,North Chennai Tps,Unit 2,210.0,4.07,5.0
+678,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,North Chennai Tps,Unit 3,210.0,4.0,4.99
+679,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,North Chennai Tps,Unit 4,600.0,0.0,12.02
+680,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,North Chennai Tps,Unit 5,600.0,9.64,13.32
+681,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Tuticorin Tps,Unit 1,210.0,3.27,0.0
+682,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Tuticorin Tps,Unit 2,210.0,3.3,0.0
+683,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Tuticorin Tps,Unit 3,210.0,3.3,4.93
+684,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Tuticorin Tps,Unit 4,210.0,3.27,4.88
+685,2017-09-01,Southern,Tamil Nadu,33.0,State,Thermal,Tuticorin Tps,Unit 5,210.0,3.27,4.95
+686,2017-09-01,Southern,Tamil Nadu,33.0,State,Ther (Gt),Basin Bridge Gt (Liq.),Single Unit,120.0,0.0,0.0
+687,2017-09-01,Southern,Tamil Nadu,33.0,State,Ther (Gt),Kovikalpal Ccpp,Single Unit,107.88,1.03,1.0
+688,2017-09-01,Southern,Tamil Nadu,33.0,State,Ther (Gt),Kuttalam Ccpp,Single Unit,100.0,0.97,1.15
+689,2017-09-01,Southern,Tamil Nadu,33.0,State,Ther (Gt),Valuthur Ccpp,Single Unit,186.2,2.74,3.24
+690,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Aliyar Hps,Single Unit,60.0,0.7,0.2
+691,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Bhawani Barrage-Ii Hps,Single Unit,30.0,0.33,0.0
+806,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,New Nabi Nagar Tpp,Unit 1,0.0,0.0,0.0
+692,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Bhawani Barrage-Iii Hps,Single Unit,30.0,0.33,0.0
+693,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Bhawani Kattal,Single Unit,30.0,0.37,0.0
+694,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Kadampari Hps,Single Unit,400.0,1.23,2.34
+695,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Kodayar Hps,Single Unit,100.0,0.8,0.68
+696,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Kundah Hps,Single Unit,555.0,4.26,2.1
+697,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Lower Mettur Hps,Single Unit,120.0,1.74,0.0
+698,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Mettur Dam Hps,Single Unit,50.0,0.63,0.13
+699,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Mettur Tunnel Hps,Single Unit,200.0,2.0,0.0
+700,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Moyar Hps,Single Unit,36.0,0.43,0.16
+701,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Papanasam Hps,Single Unit,32.0,0.4,0.38
+702,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Parson`S Valley Hps,Single Unit,30.0,0.2,0.16
+703,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Periyar Hps,Single Unit,161.0,1.83,0.0
+704,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Pykara Hps,Single Unit,59.2,0.2,0.0
+705,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Pykara Ultmate Hps,Single Unit,150.0,1.23,0.59
+706,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Sarkarpathy Hps,Single Unit,30.0,0.5,0.54
+707,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Sholayar Hps &#40;Tn&#41;,Single Unit,95.0,0.67,1.44
+708,2017-09-01,Southern,Tamil Nadu,33.0,State,Hydro,Suruliyar Hps,Single Unit,35.0,0.33,0.58
+709,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Itpcl Tpp,Unit 1,600.0,5.87,0.0
+710,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Itpcl Tpp,Unit 2,600.0,4.5,0.0
+711,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Muthiara Tpp,Unit 1,600.0,6.17,0.0
+712,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Muthiara Tpp,Unit 2,600.0,6.17,12.73
+713,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Neyveli Tps(Z),Unit 1,250.0,4.37,5.34
+854,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Sterlite Tpp,Unit 1,600.0,0.0,0.0
+714,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Tuticorin (P) Tpp,Unit 1,150.0,0.0,0.0
+715,2017-09-01,Southern,Tamil Nadu,33.0,Private,Thermal,Tuticorin (P) Tpp,Unit 2,150.0,0.0,0.0
+716,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Gt),Karuppur Ccpp,Single Unit,119.8,1.33,1.44
+717,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Gt),P.Nallur Ccpp,Single Unit,330.5,0.53,0.0
+718,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Gt),Valantarvy Ccpp,Single Unit,52.8,0.83,1.11
+719,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Dg),B. Bridge D.G,Single Unit,200.0,0.0,0.0
+720,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Dg),Samalpatti Dg,Single Unit,105.7,0.0,0.0
+721,2017-09-01,Southern,Tamil Nadu,33.0,Private,Ther (Dg),Samayanallur Dg,Single Unit,106.0,0.0,0.0
+722,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli ( Ext) Tps,Unit 1,210.0,4.43,5.03
+723,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli ( Ext) Tps,Unit 2,210.0,4.47,5.08
+724,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli New Tpp,Unit 1,0.0,0.0,0.0
+725,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 1,50.0,0.0,0.0
+726,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 2,50.0,0.9,1.0
+727,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 3,50.0,0.9,1.02
+728,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 4,50.0,0.9,1.03
+729,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 5,50.0,0.9,0.81
+730,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 6,50.0,0.9,0.91
+731,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 7,100.0,1.79,1.46
+732,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 8,100.0,1.8,1.77
+733,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-I,Unit 9,100.0,1.8,1.88
+734,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 1,210.0,0.0,0.01
+735,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 2,210.0,4.17,4.89
+736,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 3,210.0,4.2,4.98
+737,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 4,210.0,4.2,4.09
+738,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 5,210.0,0.0,4.98
+739,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 6,210.0,4.17,4.92
+740,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii,Unit 7,210.0,4.2,4.93
+741,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii Exp,Unit 1,250.0,4.57,4.99
+742,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Neyveli Tps-Ii Exp,Unit 2,250.0,4.73,3.8
+743,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Tuticorin (Jv) Tpp,Unit 1,500.0,9.4,0.0
+744,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Tuticorin (Jv) Tpp,Unit 2,500.0,9.4,8.46
+745,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Vallur Tpp,Unit 1,500.0,8.63,11.13
+746,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Vallur Tpp,Unit 2,500.0,9.0,10.64
+747,2017-09-01,Southern,Tamil Nadu,33.0,Central,Thermal,Vallur Tpp,Unit 3,500.0,8.67,0.0
+748,2017-09-01,Southern,Tamil Nadu,33.0,Central,Nuclear,Kudankulam,Unit 1,1000.0,21.6,17.93
+749,2017-09-01,Southern,Tamil Nadu,33.0,Central,Nuclear,Kudankulam,Unit 2,1000.0,19.27,0.0
+750,2017-09-01,Southern,Tamil Nadu,33.0,Central,Nuclear,Madras A.P.S,Unit 1,220.0,4.23,5.24
+751,2017-09-01,Southern,Tamil Nadu,33.0,Central,Nuclear,Madras A.P.S,Unit 2,220.0,4.13,5.18
+752,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kakatiya Tps,Unit 1,500.0,10.13,11.04
+753,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kakatiya Tps,Unit 2,600.0,11.6,12.01
+754,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 1,60.0,0.93,1.17
+755,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 2,60.0,0.93,1.26
+756,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 3,60.0,0.0,0.0
+757,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 4,60.0,0.93,0.78
+758,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 5,120.0,0.93,1.78
+759,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 6,120.0,2.07,1.88
+760,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 7,120.0,2.13,1.79
+761,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps,Unit 8,120.0,1.87,1.8
+762,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps (New),Unit 1,250.0,4.57,4.75
+763,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps (New),Unit 2,250.0,4.4,4.47
+764,2017-09-01,Southern,Telangana,36.0,State,Thermal,Kothagudem Tps (New),Unit 3,500.0,9.43,9.4
+765,2017-09-01,Southern,Telangana,36.0,State,Thermal,Ramagundem-B Tps,Unit 1,62.5,1.27,1.37
+766,2017-09-01,Southern,Telangana,36.0,State,Thermal,Singareni Tpp,Unit 1,600.0,8.23,14.42
+767,2017-09-01,Southern,Telangana,36.0,State,Thermal,Singareni Tpp,Unit 2,600.0,6.83,14.47
+768,2017-09-01,Southern,Telangana,36.0,State,Hydro,Lower Jurala Hps,Single Unit,240.0,0.87,0.82
+769,2017-09-01,Southern,Telangana,36.0,State,Hydro,Lower Sileru Hps,Single Unit,460.0,3.0,4.09
+770,2017-09-01,Southern,Telangana,36.0,State,Hydro,Nagarjun Sgr Hps,Single Unit,815.6,9.57,0.0
+771,2017-09-01,Southern,Telangana,36.0,State,Hydro,Nagarjun Sgr Lbc Hps,Single Unit,60.0,0.47,0.0
+772,2017-09-01,Southern,Telangana,36.0,State,Hydro,Pochampad Hps,Single Unit,36.0,0.37,0.05
+773,2017-09-01,Southern,Telangana,36.0,State,Hydro,Priyadarshni Jurala Hps,Single Unit,234.0,2.1,0.84
+774,2017-09-01,Southern,Telangana,36.0,State,Hydro,Pulichintala Hps,Single Unit,30.0,1.43,0.0
+775,2017-09-01,Southern,Telangana,36.0,State,Hydro,Srisailam Lb Hps,Single Unit,900.0,11.1,0.0
+776,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 1,200.0,4.33,4.51
+777,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 2,200.0,4.53,4.6
+778,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 3,200.0,4.1,4.54
+779,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 4,500.0,11.32,9.62
+780,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 5,500.0,10.23,12.02
+781,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 6,500.0,10.23,12.08
+782,2017-09-01,Southern,Telangana,36.0,Central,Thermal,Ramagundem Stps,Unit 7,500.0,10.23,12.02
+783,2017-09-01,Eastern,Andaman And Nicobar Islands,35.0,State,Ther (Dg),And. Nicobar Dg,Single Unit,40.05,0.53,0.27
+784,2017-09-01,Eastern,Bihar,10.0,State,Thermal,Barauni Tps,Unit 6,105.0,0.33,0.0
+785,2017-09-01,Eastern,Bihar,10.0,State,Thermal,Barauni Tps,Unit 7,105.0,0.87,0.0
+786,2017-09-01,Eastern,Bihar,10.0,State,Thermal,Barauni Tps,Unit 8,0.0,0.0,0.0
+787,2017-09-01,Eastern,Bihar,10.0,State,Thermal,Barauni Tps,Unit 9,0.0,0.0,0.0
+788,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Barh I,Unit 1,0.0,0.0,0.0
+789,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Barh Ii,Unit 4,660.0,10.27,13.75
+790,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Barh Ii,Unit 5,660.0,0.0,0.0
+791,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 1,210.0,4.2,4.24
+792,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 2,210.0,4.07,4.09
+793,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 3,210.0,3.8,3.91
+794,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 4,210.0,4.2,4.35
+795,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 5,500.0,9.0,7.94
+796,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 6,500.0,9.97,7.91
+797,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Kahalgaon Tps,Unit 7,500.0,9.0,7.98
+798,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Muzaffarpur Tps,Unit 1,110.0,1.37,2.48
+799,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Muzaffarpur Tps,Unit 2,110.0,1.5,0.0
+800,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Muzaffarpur Tps,Unit 3,195.0,0.97,0.0
+801,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Muzaffarpur Tps,Unit 4,195.0,0.0,3.52
+802,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Nabi Nagar Tpp,Unit 1,250.0,4.67,0.0
+803,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Nabi Nagar Tpp,Unit 2,250.0,0.0,0.0
+804,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Nabi Nagar Tpp,Unit 3,0.0,0.0,0.0
+805,2017-09-01,Eastern,Bihar,10.0,Central,Thermal,Nabi Nagar Tpp,Unit 4,0.0,0.0,0.0
+7181,2017-09-08,Western,Gujarat,24.0,State,Thermal,Ukai Tps,Unit 2,0.0,0.0,0.0
+807,2017-09-01,Eastern,Jharkhand,20.0,State,Thermal,Tenughat Tps,Unit 1,210.0,3.13,3.92
+808,2017-09-01,Eastern,Jharkhand,20.0,State,Thermal,Tenughat Tps,Unit 2,210.0,3.13,0.0
+809,2017-09-01,Eastern,Jharkhand,20.0,State,Hydro,Subernrekha Hps,Single Unit,130.0,1.34,2.15
+810,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Jojobera Tps,Unit 2,120.0,2.27,2.9
+811,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Jojobera Tps,Unit 3,120.0,2.27,2.26
+812,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Jojobera Tps,Unit 4,0.0,0.0,0.0
+813,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Mahadev Prasad Stpp,Unit 1,270.0,4.67,5.94
+814,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Mahadev Prasad Stpp,Unit 2,270.0,4.67,6.09
+815,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Maithon Rb Tpp,Unit 1,525.0,0.0,11.84
+816,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Maithon Rb Tpp,Unit 2,525.0,10.1,12.01
+817,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Maitrishi Usha Tps,Unit 1,0.0,0.0,0.0
+818,2017-09-01,Eastern,Jharkhand,20.0,Private,Thermal,Maitrishi Usha Tps,Unit 2,0.0,0.0,0.0
+819,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Bokaro `B` Tps,Unit 1,0.0,1.5,0.0
+820,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Bokaro `B` Tps,Unit 2,0.0,1.5,0.0
+821,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Bokaro `B` Tps,Unit 3,210.0,1.53,0.0
+822,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Bokaro Tps `A` Exp,Unit 1,500.0,6.17,8.9
+823,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Chandrapura(Dvc) Tps,Unit 2,0.0,1.57,0.0
+824,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Chandrapura(Dvc) Tps,Unit 3,130.0,1.57,0.0
+825,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Chandrapura(Dvc) Tps,Unit 7,250.0,4.7,6.05
+826,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Chandrapura(Dvc) Tps,Unit 8,250.0,4.7,5.96
+827,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Kodarma Tpp,Unit 1,500.0,7.33,9.06
+828,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Kodarma Tpp,Unit 2,500.0,7.36,9.03
+829,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Patratu Tps,Unit 4,40.0,0.5,0.0
+830,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Patratu Tps,Unit 6,90.0,1.4,0.0
+831,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Patratu Tps,Unit 7,105.0,0.0,0.0
+832,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Patratu Tps,Unit 9,110.0,1.27,0.0
+833,2017-09-01,Eastern,Jharkhand,20.0,Central,Thermal,Patratu Tps,Unit 10,110.0,1.3,0.0
+834,2017-09-01,Eastern,Jharkhand,20.0,Central,Hydro,Maithon Hps,Single Unit,63.2,0.7,0.22
+835,2017-09-01,Eastern,Jharkhand,20.0,Central,Hydro,Panchet Hps,Single Unit,80.0,0.9,0.77
+836,2017-09-01,Eastern,Odisha,21.0,State,Thermal,Ib Valley Tps,Unit 1,210.0,4.5,4.58
+837,2017-09-01,Eastern,Odisha,21.0,State,Thermal,Ib Valley Tps,Unit 2,210.0,0.0,0.0
+838,2017-09-01,Eastern,Odisha,21.0,State,Thermal,Ib Valley Tps,Unit 3,0.0,0.0,0.0
+839,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Balimela Hps,Single Unit,510.0,4.2,5.37
+840,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Chiplima Hps,Single Unit,72.0,1.07,0.97
+841,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Hirakud Hps,Single Unit,275.5,3.83,3.7
+842,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Machkund Hps,Single Unit,114.75,1.43,1.76
+843,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Rengali Hps,Single Unit,250.0,4.8,3.58
+844,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Upper Indravati Hps,Single Unit,600.0,9.2,3.91
+845,2017-09-01,Eastern,Odisha,21.0,State,Hydro,Upper Kolab Hps,Single Unit,320.0,3.43,1.94
+846,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Derang Tpp,Unit 1,600.0,9.03,0.0
+847,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Derang Tpp,Unit 2,600.0,9.03,8.2
+848,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Iccl Imp,Unit 2,0.0,0.8,0.53
+849,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Kamalanga Tps,Unit 1,350.0,5.47,4.25
+850,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Kamalanga Tps,Unit 2,350.0,5.87,0.0
+851,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Kamalanga Tps,Unit 3,350.0,5.47,6.8
+852,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Lanco Babandh Tpp,Unit 1,0.0,0.0,0.0
+853,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Nalco Imp,Unit 1,0.0,0.7,0.61
+855,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Sterlite Tpp,Unit 2,600.0,8.23,1.13
+856,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Sterlite Tpp,Unit 3,0.0,0.0,0.0
+857,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Sterlite Tpp,Unit 4,0.0,0.0,0.0
+858,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Utkal Tpp (Ind Barath),Unit 1,350.0,0.0,0.0
+859,2017-09-01,Eastern,Odisha,21.0,Private,Thermal,Utkal Tpp (Ind Barath),Unit 2,0.0,0.0,0.0
+860,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 1,60.0,1.37,1.49
+861,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 2,60.0,1.33,1.48
+862,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 3,60.0,0.0,1.49
+863,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 4,60.0,1.33,1.49
+864,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 5,110.0,2.63,2.58
+865,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher (Old) Tps,Unit 6,110.0,2.53,2.63
+866,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 1,500.0,11.03,11.66
+867,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 2,500.0,10.27,11.92
+868,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 3,500.0,0.0,11.58
+869,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 4,500.0,11.73,9.07
+870,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 5,500.0,10.27,11.72
+871,2017-09-01,Eastern,Odisha,21.0,Central,Thermal,Talcher Stps,Unit 6,500.0,10.27,12.07
+872,2017-09-01,Eastern,Sikkim,11.0,State,Hydro,Teesta-Iii Hps,Single Unit,1200.0,24.0,23.68
+873,2017-09-01,Eastern,Sikkim,11.0,Private,Hydro,Chuzachen Hps,Single Unit,99.0,2.67,2.13
+874,2017-09-01,Eastern,Sikkim,11.0,Private,Hydro,Dikchu Hps,Single Unit,96.0,0.0,2.41
+875,2017-09-01,Eastern,Sikkim,11.0,Private,Hydro,Jorethang Loop,Single Unit,96.0,2.5,2.33
+876,2017-09-01,Eastern,Sikkim,11.0,Private,Hydro,Tashiding,Single Unit,0.0,2.4,0.0
+877,2017-09-01,Eastern,Sikkim,11.0,Central,Hydro,Rangit Hps,Single Unit,60.0,1.43,1.4
+878,2017-09-01,Eastern,Sikkim,11.0,Central,Hydro,Teesta V Hps,Single Unit,510.0,11.1,8.15
+879,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bakreswar Tps,Unit 1,210.0,4.57,4.43
+880,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bakreswar Tps,Unit 2,210.0,4.1,4.61
+881,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bakreswar Tps,Unit 3,210.0,4.1,4.3
+882,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bakreswar Tps,Unit 4,210.0,4.37,4.66
+883,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bakreswar Tps,Unit 5,210.0,0.0,4.66
+884,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bandel Tps,Unit 1,60.0,0.47,0.0
+885,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bandel Tps,Unit 2,60.0,0.43,0.98
+886,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bandel Tps,Unit 3,60.0,0.47,0.0
+887,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bandel Tps,Unit 4,60.0,0.0,0.0
+888,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Bandel Tps,Unit 5,210.0,3.37,3.91
+889,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,D.P.L. Tps,Unit 6,110.0,0.0,0.0
+890,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,D.P.L. Tps,Unit 7,300.0,3.43,5.74
+891,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,D.P.L. Tps,Unit 8,250.0,3.43,0.0
+892,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 1,210.0,2.1,2.86
+893,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 2,210.0,2.23,2.44
+894,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 3,210.0,0.0,0.0
+895,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 4,210.0,2.87,3.48
+896,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 5,210.0,4.07,4.68
+897,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Kolaghat Tps,Unit 6,210.0,3.9,0.0
+898,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Sagardighi Tps,Unit 1,300.0,3.77,0.0
+899,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Sagardighi Tps,Unit 2,300.0,4.27,5.98
+900,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Sagardighi Tps,Unit 3,500.0,4.67,7.03
+901,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Sagardighi Tps,Unit 4,500.0,2.87,6.35
+8134,2017-09-09,Western,Chhatisgarh,22.0,Central,Thermal,Lara Tpp,Unit 1,0.0,0.0,0.0
+902,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Santaldih Tps,Unit 5,250.0,5.73,0.0
+903,2017-09-01,Eastern,West Bengal,19.0,State,Thermal,Santaldih Tps,Unit 6,250.0,0.0,5.85
+904,2017-09-01,Eastern,West Bengal,19.0,State,Ther (Gt),Haldia Gt (Liq.),Single Unit,40.0,0.0,0.0
+905,2017-09-01,Eastern,West Bengal,19.0,State,Ther (Gt),Kasba Gt (Liq.),Single Unit,40.0,0.0,0.0
+906,2017-09-01,Eastern,West Bengal,19.0,State,Hydro,Jaldhaka Hps St-I,Single Unit,36.0,0.67,0.0
+907,2017-09-01,Eastern,West Bengal,19.0,State,Hydro,Purulia Pss Hps,Single Unit,900.0,3.33,0.6
+908,2017-09-01,Eastern,West Bengal,19.0,State,Hydro,Rammam Hps,Single Unit,50.0,1.2,0.0
+909,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Budge Budge Tps,Unit 1,250.0,5.53,6.1
+910,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Budge Budge Tps,Unit 2,250.0,5.3,5.94
+911,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Budge Budge Tps,Unit 3,250.0,5.3,6.16
+912,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Chinakuri Tps,Unit 1,0.0,0.0,0.0
+913,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Chinakuri Tps,Unit 2,0.0,0.0,0.0
+914,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Chinakuri Tps,Unit 3,0.0,0.0,0.0
+915,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Haldia Tpp,Unit 1,300.0,6.0,6.0
+916,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Haldia Tpp,Unit 2,300.0,5.77,7.12
+917,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,India Power Tpp (Haldia),Unit 1,150.0,0.0,0.0
+918,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,India Power Tpp (Haldia),Unit 2,0.0,0.0,0.0
+919,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,India Power Tpp (Haldia),Unit 3,0.0,0.0,0.0
+920,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Southern Repl. Tps,Unit 1,67.5,0.5,0.13
+921,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Southern Repl. Tps,Unit 2,67.5,0.5,0.6
+922,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Titagarh Tps,Unit 1,60.0,0.0,0.0
+923,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Titagarh Tps,Unit 2,60.0,0.0,0.0
+924,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Titagarh Tps,Unit 3,60.0,0.0,0.0
+925,2017-09-01,Eastern,West Bengal,19.0,Private,Thermal,Titagarh Tps,Unit 4,60.0,0.0,0.0
+926,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Durgapur Steel Tps,Unit 1,500.0,9.17,9.43
+927,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Durgapur Steel Tps,Unit 2,500.0,9.2,9.23
+928,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Durgapur Tps,Unit 4,210.0,0.93,0.0
+929,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 1,200.0,3.9,3.01
+930,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 2,200.0,3.53,2.4
+931,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 3,200.0,3.9,0.45
+932,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 4,500.0,10.07,7.66
+933,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 5,500.0,9.17,7.69
+934,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Farakka Stps,Unit 6,500.0,9.73,8.19
+935,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 1,210.0,2.5,4.27
+936,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 2,210.0,2.43,3.46
+937,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 3,210.0,0.0,0.0
+938,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 4,210.0,2.43,0.0
+939,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 5,250.0,4.0,4.88
+940,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 6,250.0,3.77,4.84
+941,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 7,500.0,8.73,10.19
+942,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Mejia Tps,Unit 8,500.0,8.73,0.0
+943,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Raghunathpur Tpp,Unit 1,600.0,2.73,0.0
+944,2017-09-01,Eastern,West Bengal,19.0,Central,Thermal,Raghunathpur Tpp,Unit 2,600.0,2.73,0.0
+945,2017-09-01,Eastern,West Bengal,19.0,Central,Hydro,Teesta Low Dam-Iii Hps,Single Unit,132.0,2.17,1.92
+946,2017-09-01,Eastern,West Bengal,19.0,Central,Hydro,Teesta Low Dam-Iv Hps,Single Unit,160.0,3.57,2.37
+947,2017-09-01,North Eastern,Arunachal Pradesh,12.0,Central,Hydro,Kameng Hps,Single Unit,0.0,0.0,0.0
+948,2017-09-01,North Eastern,Arunachal Pradesh,12.0,Central,Hydro,Pare,Single Unit,0.0,1.17,0.0
+949,2017-09-01,North Eastern,Arunachal Pradesh,12.0,Central,Hydro,Ranganadi Hps,Single Unit,405.0,5.83,5.31
+950,2017-09-01,North Eastern,Assam,18.0,State,Thermal,Chandrapur(Assam) Tps,Unit 1,0.0,0.0,0.0
+951,2017-09-01,North Eastern,Assam,18.0,State,Thermal,Chandrapur(Assam) Tps,Unit 2,0.0,0.0,0.0
+952,2017-09-01,North Eastern,Assam,18.0,State,Ther (Gt),Lakwa Gt,Single Unit,142.2,2.44,2.04
+953,2017-09-01,North Eastern,Assam,18.0,State,Ther (Gt),Namrup Ccpp,Single Unit,181.25,0.92,0.87
+954,2017-09-01,North Eastern,Assam,18.0,State,Hydro,Karbi Langpi Hps,Single Unit,100.0,2.4,2.41
+955,2017-09-01,North Eastern,Assam,18.0,Central,Thermal,Bongaigaon Tpp,Unit 1,250.0,4.4,3.72
+956,2017-09-01,North Eastern,Assam,18.0,Central,Thermal,Bongaigaon Tpp,Unit 2,250.0,0.0,0.0
+957,2017-09-01,North Eastern,Assam,18.0,Central,Thermal,Bongaigaon Tpp,Unit 3,0.0,0.0,0.0
+958,2017-09-01,North Eastern,Assam,18.0,Central,Ther (Gt),Kathalguri Ccpp,Single Unit,291.0,4.73,4.13
+959,2017-09-01,North Eastern,Assam,18.0,Central,Hydro,Kopili Hps,Single Unit,225.0,5.03,3.59
+960,2017-09-01,North Eastern,Manipur,14.0,State,Ther (Dg),Leimakhong Dg,Single Unit,36.0,0.0,0.0
+961,2017-09-01,North Eastern,Manipur,14.0,Central,Hydro,Loktak Hps,Single Unit,105.0,2.33,2.52
+962,2017-09-01,North Eastern,Meghalaya,17.0,State,Hydro,Kyrdemkulai Hps,Single Unit,60.0,0.57,0.52
+963,2017-09-01,North Eastern,Meghalaya,17.0,State,Hydro,Myntdu(Leshka) St-1 Hps,Single Unit,126.0,2.67,1.78
+964,2017-09-01,North Eastern,Meghalaya,17.0,State,Hydro,New Umtru Hps,Single Unit,40.0,0.2,0.18
+965,2017-09-01,North Eastern,Meghalaya,17.0,State,Hydro,Umiam Hps St-I,Single Unit,36.0,0.57,0.65
+966,2017-09-01,North Eastern,Meghalaya,17.0,State,Hydro,Umiam Hps St-Iv,Single Unit,60.0,0.93,1.42
+967,2017-09-01,North Eastern,Meghalaya,17.0,Central,Hydro,Khondong Hps,Single Unit,50.0,0.67,1.11
+968,2017-09-01,North Eastern,Mizoram,15.0,Central,Hydro,Tuirial Hps,Single Unit,30.0,0.6,0.0
+969,2017-09-01,North Eastern,Nagaland,13.0,Central,Hydro,Doyang Hps,Single Unit,75.0,1.67,1.72
+970,2017-09-01,North Eastern,Tripura,16.0,State,Ther (Gt),Baramura Gt,Single Unit,58.5,0.57,0.45
+971,2017-09-01,North Eastern,Tripura,16.0,State,Ther (Gt),Rokhia Gt,Single Unit,111.0,1.05,0.86
+972,2017-09-01,North Eastern,Tripura,16.0,Central,Ther (Gt),Agartala Gt,Single Unit,135.0,2.66,2.02
+973,2017-09-01,North Eastern,Tripura,16.0,Central,Ther (Gt),Monarchak Ccpp,Single Unit,101.0,0.0,1.82
+974,2017-09-01,North Eastern,Tripura,16.0,Central,Ther (Gt),Tripura Ccpp,Single Unit,726.6,12.34,0.0
+975,2017-09-01,Bhutan Imp.,Bhutan,,,,Chukha,Single Unit,0.0,5.23,8.43
+976,2017-09-01,Bhutan Imp.,Bhutan,,,,Kurichu,Single Unit,0.0,1.1,2.25
+977,2017-09-01,Bhutan Imp.,Bhutan,,,,Tala,Single Unit,0.0,17.63,24.85
+978,2017-09-02,Northern,Delhi,7.0,State,Thermal,Rajghat Tps,Unit 1,67.5,0.0,0.0
+979,2017-09-02,Northern,Delhi,7.0,State,Thermal,Rajghat Tps,Unit 2,67.5,0.0,0.0
+980,2017-09-02,Northern,Delhi,7.0,State,Ther (Gt),I.P.Ccpp,Single Unit,270.0,1.8,0.64
+981,2017-09-02,Northern,Delhi,7.0,State,Ther (Gt),Pragati Ccgt-Iii,Single Unit,1500.0,6.0,9.3
+982,2017-09-02,Northern,Delhi,7.0,State,Ther (Gt),Pragati Ccpp,Single Unit,330.4,5.49,4.84
+983,2017-09-02,Northern,Delhi,7.0,Private,Ther (Gt),Rithala Ccpp,Single Unit,108.0,0.0,0.0
+984,2017-09-02,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 1,95.0,0.0,0.0
+985,2017-09-02,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 2,95.0,0.0,0.0
+986,2017-09-02,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 3,95.0,0.0,0.0
+987,2017-09-02,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 4,210.0,2.9,4.27
+988,2017-09-02,Northern,Delhi,7.0,Central,Thermal,Badarpur Tps,Unit 5,210.0,2.9,4.29
+989,2017-09-02,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 5,210.0,0.0,0.0
+990,2017-09-02,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 6,210.0,0.0,0.0
+991,2017-09-02,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 7,250.0,2.2,0.0
+992,2017-09-02,Northern,Haryana,6.0,State,Thermal,Panipat Tps,Unit 8,250.0,2.5,0.0
+993,2017-09-02,Northern,Haryana,6.0,State,Thermal,Rajiv Gandhi Tps,Unit 1,600.0,7.57,0.0
+994,2017-09-02,Northern,Haryana,6.0,State,Thermal,Rajiv Gandhi Tps,Unit 2,600.0,6.83,0.0
+995,2017-09-02,Northern,Haryana,6.0,State,Thermal,Yamuna Nagar Tps,Unit 1,300.0,4.93,0.0
+996,2017-09-02,Northern,Haryana,6.0,State,Thermal,Yamuna Nagar Tps,Unit 2,300.0,4.93,0.0
